@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> __Update:__ I am looking for Ph.D. students interested in AI + fluid flow. Please reach out if you are interested in [this opportunity](https://www.imperial.ac.uk/media/imperial-college/grantham-institute/public/dtp/2024-projects/grantham-institute-2024-projects/2024_27_ESE_GW.pdf)!
+> __Update:__ I am looking for Ph.D. students interested in the intersection of AI, fluid flow. Reach out if you are interested in [opportunity](https://www.imperial.ac.uk/media/imperial-college/grantham-institute/public/dtp/2024-projects/grantham-institute-2024-projects/2024_27_ESE_GW.pdf)! Note: Please include keyword "PhD application" in your email heading.
 
 I am an assistant professor at Imperial College London, with a co-appointment from [Earth Science Engineering](https://www.imperial.ac.uk/earth-science/) and [I-X (Imperial + AI)](https://ix.imperial.ac.uk/). My group focuses on AI for Energy Transition, with special emphasis on subsurface energy storage and CO$_2$ geological storage.My research interest is in computational methods for earth sciences, with a special emphasis on multiphase flow and transport for CO$_2$ geological storage, physics modeling, and machine learning. I obtained my Ph.D. from the [Energy Sciences & Engineering](https://earth.stanford.edu/ere) Department at [Stanford Doerr School of Sustainability](https://sustainability.stanford.edu/)
 working with Professor [Sally M. Benson](https://earth.stanford.edu/people/sally-benson). I was an ExxonMobil Emerging Energy Fellow through the [Stanford Strategic Energy Alliance](https://news.stanford.edu/2018/03/01/new-energy-research-program-collaboration/). 
